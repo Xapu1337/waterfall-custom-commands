@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="XarruCustomCommands" target="9" />
+      <module name="XarruCustomCommands" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
