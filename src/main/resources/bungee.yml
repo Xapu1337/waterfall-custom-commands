@@ -1,0 +1,4 @@
+name: Customcommands
+version: '${project.version}'
+main: eu.xaru.commands.other.customcommands.Customcommands
+description: A simple plugin used to create custom commands that just contain text and have the option to redirect to a website
