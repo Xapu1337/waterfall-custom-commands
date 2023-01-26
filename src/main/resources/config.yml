@@ -1,0 +1,12 @@
+custom-commands:
+  commands:
+    # general structure:
+    # commandname: (no spaces or invalid chars)
+    #   content: "message the player will see"
+    #   link: (optional) the link the message will open when clicked
+    discord:
+      content: "click to get to our discord"
+      link: "https://google.com"
+    contact:
+      content: "any problems you want to share? click on this message to report any issues you might have."
+      link: "https://google.com"
